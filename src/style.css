@@ -1,0 +1,32 @@
+.conteiner .cor-da-linha-principal {
+    background-color: black;
+    color: green;
+}
+
+.conteiner .cor-da-linha {
+    background-color: grey;
+}
+
+.conteiner .cor-da-linha2 {
+    background-color: rgb(181, 179, 179);
+}
+
+
+.conteiner thead, td {
+    font-size: 54px;
+}
+
+
+.conteiner table, th, td {
+    border: 1px solid #333;
+     
+}
+
+.conteiner .linha {
+    font-size: 40px;
+}
+
+
+
+
+
